@@ -10,7 +10,7 @@ This project is an AI-powered workplace productivity assistant designed to help 
 - AI Task Planner for daily and weekly task prioritization
 
 ## Live Application
-https://lovable.dev/projects/61d2xxxx
+https://lovable.dev/projects/61d2699b-30a7-4e71-9462-5d987f189467
 
 ## Tools Used
 - Lovable AI
